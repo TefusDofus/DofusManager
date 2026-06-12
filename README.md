@@ -30,7 +30,7 @@ DofusManager est un outil pensé pour les joueurs **multicompte** sur Dofus. Il 
 <img src="screenshot-overlay.png" alt="DofusManager - overlay multicompte avec la liste des personnages" width="80%" />
 
 ### Gestion des teams en un coup d'œil
-<img src="screenshot-trading.png/screenshot-overlay.png)" alt="DofusManager - gestion des teams multicompte sur Dofus" width="80%" />
+<img src="screenshot-trading.png" alt="DofusManager - gestion des teams multicompte sur Dofus" width="80%" />
 
 ### Suivi Metamob, boss & archimonstres
 <img src="screenshot-trading.png" alt="DofusManager - suivi Metamob et trading Dofus" width="80%" />
