@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo-egg.png" alt="DofusManager" width="120" />
+<img src="logo-egg.png" alt="DofusManager" width="120" />
 
 # DofusManager by Tefus : Outil pour gérer le multicompte
 
