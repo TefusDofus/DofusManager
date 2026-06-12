@@ -7,7 +7,6 @@
 **L'outil multicompte gratuit et open-source pour Dofus Retro et Dofus Unity.**
 
 [![Site officiel](https://img.shields.io/badge/Site_officiel-dofusmanager.com-2dd4bf?style=for-the-badge)](https://dofusmanager.com)
-[![Plateformes](https://img.shields.io/badge/Windows_%7C_macOS-0e1a1f?style=for-the-badge)](#installation)
 [![Licence](https://img.shields.io/badge/Open_Source-14b8a6?style=for-the-badge)](#licence)
 
 </div>
@@ -53,14 +52,14 @@ DofusManager est un outil pensé pour les joueurs **multicompte** sur Dofus. Il 
 ## Installation
 
 1. Rendez-vous sur **[dofusmanager.com](https://dofusmanager.com)**.
-2. Téléchargez la version Windows (10/11, 64-bit) ou macOS.
+2. Téléchargez la version Windows (10/11, 64-bit) .
 3. Lancez DofusManager : vos fenêtres Dofus ouvertes sont détectées automatiquement.
 
 ---
 
 ## Respect des CGU de Dofus
 
-DofusManager respecte pleinement les CGU d'Ankama : l'application **n'intervient jamais** sur la fenêtre de jeu, **aucun clic** n'est effectué et **aucune action** n'est répercutée sur le jeu. Le fonctionnement repose uniquement sur les processus de l'OS (Windows ou macOS) pour détecter les fenêtres contenant « Dofus » dans leur nom. Le code étant **open-source**, tout est vérifiable.
+DofusManager respecte pleinement les CGU d'Ankama : l'application **n'intervient jamais** sur la fenêtre de jeu, **aucun clic** n'est effectué et **aucune action** n'est répercutée sur le jeu. Le fonctionnement repose uniquement sur les processus de l'OS (Windows ) pour détecter les fenêtres contenant « Dofus » dans leur nom. Le code étant **open-source**, tout est vérifiable.
 
 ---
 
